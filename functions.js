@@ -20,7 +20,7 @@ greet1('Mohan');
 function greet2(name, lastname) {
         console.log('Hello '+name);
 }
-//printsundefined 
+//prints undefined 
 greet2('John');
 //john is an argument , name is parameter
 greet2('Mohan'); //default value in js is undefined 
