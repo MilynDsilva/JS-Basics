@@ -18,4 +18,6 @@ for (let color of colors) //need not deal with index can directly access the val
     console.log(color);
 }
 
+//prints the colors where as in for in it prints the index value
+
 //instead of in we use of
