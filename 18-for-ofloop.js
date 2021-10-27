@@ -21,3 +21,5 @@ for (let color of colors) //need not deal with index can directly access the val
 //prints the colors where as in for in it prints the index value
 
 //instead of in we use of
+
+//for of - itterats items,eles of an array where as the for in itterates over the properties of the array
