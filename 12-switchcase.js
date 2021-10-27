@@ -10,3 +10,7 @@ switch (role) {
     default:
         console.log('Unknown role');
 }
+
+// if (role === 'guest') console.log('Guest');
+// else if (role === 'moderator') console.log('moderator');
+// else console.log('Unknown')
