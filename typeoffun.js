@@ -1,4 +1,4 @@
-//performs a task
+//performs a task, set of statements
 function greet2(name, lastname) {
     console.log('Hello '+name+ '' +lastname);
 }
