@@ -1,0 +1,2 @@
+//operators used ro create expressions can implement logic,algos
+//arithmatic ,  assignment, comparision, logical, bitwise operators
