@@ -3,7 +3,7 @@ while (i<=10) {
     //if (i===5) break; //jump out of the loop
     if (i % 2 ===0) {
         i++;
-        continue;
+        continue; //skips the current executes the next
     }
     console.log(i);
     i++;
