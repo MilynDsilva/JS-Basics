@@ -8,3 +8,6 @@ function shownumbers(limit) {
             console.log(i,'ODD');
     }
 }
+
+// const message = (i % 2 ==0) ? 'EVEN' : 'ODD';
+// console.log(i,message);
