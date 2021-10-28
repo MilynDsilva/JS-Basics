@@ -8,17 +8,12 @@ checkSpeed(130);
 function checkSpeed(speed) {
     const speedlimit=70;
     if (speed <=speedlimit)
-    {
         return 'Ok';
-    }
     else if (speed >=130)
-    {
         return 'License suspended';
-    }
     else if (speed >70 || speed <=130)
     {
         points =0;
-        console.log(points)
         currentspeed = speed;
         speed = 70;
         while (speed<=currentspeed)
@@ -31,9 +26,6 @@ function checkSpeed(speed) {
         console.log(points+' points');
     }
     else
-    {
         return 'License suspended';
-    }
-
 }
 
