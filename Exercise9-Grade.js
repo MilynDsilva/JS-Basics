@@ -28,4 +28,18 @@ function calculategrade(marks) {
         else 
             console.log('Invalid marks!');
     }
-   
+   //
+//    function calculategrade(mark){
+//        if (average < 60 ) return 'F';
+//        if (average < 70 ) return 'D';
+//        if (average < 80 ) return 'C';
+//        if (average < 90 ) return 'B';
+//        return 'A';
+//    }
+
+//    function calculateavergage(array) {
+//         let sum = 0;
+//         for (let mark of marks)
+//             sum += mark;
+//         let average = sum / marks.length;
+//    }
