@@ -10,7 +10,7 @@ const message = 'New message \'second messgae'; //usinf \ to display '
 //m.replace('first','second')
 //.indexOf('New)
 //toUpperCase,trim removes white space, trimleft
-message.
+//message.
 
 //string object
 const another = new String('hi'); //constructor function do we add new
