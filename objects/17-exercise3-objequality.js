@@ -17,6 +17,5 @@ function areEqual(address1,address2){
             address1.city === address2.city;
 }
 function areSame(address1,address2){
-    return address1 === address2; //t or f
-
+    return address1 === address2; //t or f //refferncing same obj
 }
