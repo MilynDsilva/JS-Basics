@@ -9,4 +9,7 @@ let post = {
         {author:'new a',body:'new body'},
         {author:'new a',body:'new body'},
     ],
+    isLive:true
 };
+
+console.log(post);
