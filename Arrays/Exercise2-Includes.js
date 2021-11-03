@@ -1,20 +1,12 @@
 const numbers = [1,7,3,4,6,8];
 
-//console.log(numbers.includes(1));
-console.log(includes1(numbers,9));
+console.log(includes1(numbers,0));
 
-function includes1(array,searchele) {
+function includes1(numbers,searchele) {
     for (i=0;i<=numbers.length;i++)
     {   
-        let newarray = [];
-        newarray.push(searchele);
-        y=searchele;
-        //console.log(numbers,newarray);
-        if(numbers !== newarray)
-        {
-            console.log('true'); 
-        }
-        //console.log('true');
+        if(numbers[i] === searchele)
+            return true; 
+        return false;
     }
-    console.log('false');
 }
