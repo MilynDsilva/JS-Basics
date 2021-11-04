@@ -8,3 +8,10 @@ function includes1(numbers,searchele) {
             return true; 
         return false;
 }
+
+// function includes2(array,searchele) {
+//     for (let elemenet of array )
+//         if (elemenet === serchelement)
+//             return true;
+//     return false;
+// }
