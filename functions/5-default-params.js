@@ -20,3 +20,4 @@ function interest(principal,rate = 3.6,years = 6) {
 }
 
 console.log(interest(10000,3.5));
+//Make sure to have all the params after default param to have a default value
