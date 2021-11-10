@@ -8,6 +8,7 @@ function includes1(numbers,searchele) {
             return true; 
         return false;
 }
+// true
 
 // function includes2(array,searchele) {
 //     for (let elemenet of array )
