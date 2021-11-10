@@ -15,3 +15,12 @@ movies.filter(m =>m.year === 2018 && m.rating >= 4)
 console.log(titles);
 
 //sorts in decending order
+
+// const numbers = [65, 44, 12, 4];
+// const newArr = numbers.map(myFunction);
+// //const newArr = myFunction(numbers);
+// console.log(newArr);
+
+// function myFunction(num) {
+//   return num * 10;
+// }
